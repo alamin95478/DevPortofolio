@@ -289,8 +289,8 @@ nav{
     font-size: 18px;
 	}
 	.pages {
-	    top: 100%;
-	    transform: translateY(-100%);
+ 	    top: 50%;
+    	transform: translateY(-50%);
 	}
 
 	/*bio-page*/
